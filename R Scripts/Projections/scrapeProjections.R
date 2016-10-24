@@ -9,7 +9,7 @@ require(pbapply)
 require(XLConnect)
 
 # Set week and season to desired period. Set weekNo = 0 for season data.
-scrapePeriod = c(weekNo = 0, season = 2015)
+scrapePeriod = c(weekNo = 4, season = 2016)
 
 # Set type of league: standard, ppr or half
 leagueType <- "standard"
